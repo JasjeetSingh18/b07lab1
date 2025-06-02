@@ -1,2 +1,2 @@
-# b07lab1
-Lab 1 for CSCB07
+# b07lab2
+Lab 2 for CSCB07
