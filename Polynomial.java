@@ -7,8 +7,6 @@ import java.lang.Integer; //Integer class
 import java.lang.Double; //Double class;
 import java.io.FileWriter; //Write to file
 
-
-
 public class Polynomial {
 
 	double[] poly_coeff;
